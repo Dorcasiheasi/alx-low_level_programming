@@ -1,7 +1,7 @@
 
 /*
  * File: 2-add_node.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Dorcas Iheasi
  */
 
 #include "lists.h"

@@ -1,6 +1,6 @@
 /*
  * File: 1-list_len.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Dorcas Iheasi
  */
 
 #include "lists.h"
